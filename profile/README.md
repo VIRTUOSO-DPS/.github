@@ -40,8 +40,8 @@ The VIRTUOSO organization is based on the following 9 repositories:
 - [measurements]() - Add repo description here
 - [nats-jetstream]() - Add repo description here
 - [elastic-stack]() - Add repo description here
-- [csm-runtime-java-config] - Add repo description here
-- [k8s-cluster] - Add repo description here
+- [csm-runtime-java-config]() - Add repo description here
+- [k8s-cluster]() - Add repo description here
 
 ## Uses
 
