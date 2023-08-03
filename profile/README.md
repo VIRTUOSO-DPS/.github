@@ -1,57 +1,38 @@
-# VIRTUOSO
+Welcome to the VIRTUOSO project.
 
-Welcome to the documentation of the VIRTUOSO Github organization.
+# VIRTUOSO Project
 
----
+The VIRTUOSO project is part of the [VIRTUOSO](https://virtuoso.github.io/) project of the [Distributed and Parallel Systems group](http://dps.uibk.ac.at/) of the University of Innsbruck, Austria.
 
-## VIRTUOSO Project
+This project aims to enable the execution of complex applications distributed across the Edge-Cloud continuum modeled as Collaborative State Machines (CSM).
 
-The VIRTUOSO organization is part of the [VIRTUOSO](https://apollowf.github.io/) project of the [distributed and parallel systems group](http://dps.uibk.ac.at/) of the University of Innsbruck, Austria. The purpose of this project is to enable the execution of complex applications distributed across the Edge-Cloud continuum modeled as Collaborative State Machines (CSM). At the core of this project are the **VIRTUOSO Runtime Systems** which orchestrate and optimize the execution of the CSMs.
+At the core of this project are the **VIRTUOSO Runtime Systems** that orchestrate and optimize the execution of the CSMs.
 
----
-
-## Getting Started
+# Getting Started
 
 To be added.
 
----
+# Issues and Feature Requests
 
-## Issues and Feature Requests
+Please refer to the repositories below for submitting issues and feature requests and contributing to discussions.
 
-If you find issues/bugs or have an idea or need for certain extensions of the framework, please formulate an issue in the repository which seems most appropriate and/or reach our directly by writing an email to [dpsuibk@gmail.com](mailto:apolloruntime@gmail.com).
+You can reach us directly by sending an email to [dpsuibk@gmail.com](mailto:dpsuibk@gmail.com).
 
----
+# Project Breakdown
 
-## Citation
+The VIRTUOSO project is based on the following repositories:
 
-To be added.
+- [CSM-Specifications](https://github.com/VIRTUOSO-DPS/CSM-Specifications) - Specifications of the CSM language and its components.
+- [CSM-Python-Runtime](https://github.com/VIRTUOSO-DPS/CSM-Python-Runtime) - Runtime system implemented in Python.
+- [CSM-Java-Runtime](https://github.com/VIRTUOSO-DPS/CSM-Java-Runtime) - Runtime system implemented in Java.
+- [CSM-Scheduler](https://github.com/VIRTUOSO-DPS/CSM-Sheduler) - Scheduler implementation.
+- [CSM-Applications](https://github.com/VIRTUOSO-DPS/CSM-Applications) - Example CSM applications.
+- [CSM-Frontend](https://github.com/VIRTUOSO-DPS/CSM-Frontend) - CSM frontend application.
 
----
+# Citation
 
-## Organization Overview
+To cite this project, please make use of the following:
 
-The VIRTUOSO organization is based on the following 9 repositories:
-
-- [csm-runtime-java]() - Add repo description here
-- [fastapi-runtime]() - Add repo description here
-- [csm-api]() - Add repo description here
-- [csm-frontend]() - Add repo description here
-- [measurements]() - Add repo description here
-- [nats-jetstream]() - Add repo description here
-- [elastic-stack]() - Add repo description here
-- [csm-runtime-java-config]() - Add repo description here
-- [k8s-cluster]() - Add repo description here
-
-## Uses
-
-To be added.
-
-## Related organizations
-
-To be included. VIRTUOSO-Applications
-
----
-
-## References
-
-To be added.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sapien feugiat, consequat magna a, condimentum erat. Donec quis accumsan.
+```
