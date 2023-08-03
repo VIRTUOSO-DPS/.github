@@ -1,6 +1,6 @@
-Welcome to the VIRTUOSO project.
-
 # VIRTUOSO Project
+
+Welcome to the VIRTUOSO project.
 
 The VIRTUOSO project is part of the [VIRTUOSO](https://virtuoso.github.io/) project of the [Distributed and Parallel Systems group](http://dps.uibk.ac.at/) of the University of Innsbruck, Austria.
 
