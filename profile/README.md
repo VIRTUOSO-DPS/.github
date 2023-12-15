@@ -21,8 +21,6 @@ You can email us directly at [dpsuibk@gmail.com](mailto:dpsuibk@gmail.com).
 The VIRTUOSO project is based on the following repositories:
 
 - [CSM-Specifications](https://github.com/VIRTUOSO-DPS/CSM-Specifications) - Specifications of the CSM language and its components.
-- [CSM-Python-Runtime](https://github.com/VIRTUOSO-DPS/CSM-Python-Runtime) - Runtime system implemented in Python.
-- [CSM-Scheduler](https://github.com/VIRTUOSO-DPS/CSM-Sheduler) - Scheduler implementation.
 
 # Citation
 
